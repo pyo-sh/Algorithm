@@ -14,6 +14,6 @@ public class N_9498 {
     System.out.println("D");
    else
     System.out.println("F");
-    sc.close()
+    sc.close();
   }
 }

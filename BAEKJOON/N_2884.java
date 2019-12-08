@@ -12,6 +12,7 @@ public class N_2884{
         		System.out.println((hour - 1) + " " + (minute + 60 - 45));
         }
         else
-        	System.out.println(hour + " " + (minute - 45));
+            System.out.println(hour + " " + (minute - 45));
+        io.close();
     }
 }
